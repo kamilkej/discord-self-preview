@@ -12,9 +12,9 @@ Discord selfbot preview/template.
    ```sh
    pip install -r requirements.txt
    ```
-3. Set up your bot token in `main.py`:
+3. Set up your token in `main.py`:
    ```python
-   BOT_TOKEN = "your-bot-token-here"
+   TOKEN = "your-bot-token-here"
    ```
 4. Run the bot:
    ```sh
